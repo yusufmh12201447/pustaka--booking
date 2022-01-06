@@ -1,0 +1,31 @@
+body {margin: 0; font-family: sans-serif;}
+
+.header {margin: 20px; color: white; background: #B0C4DE; height: 70px;}
+
+.logo {float: left; text-align: center; }
+
+.navbar {float: right; text-align: center;}
+
+.navbar ul{list-style: none; padding-top: 10px;}
+
+.navbar ul li{display: inline; margin: 10px;}
+
+.navbar ul li a{text-decoration: none; color: black; }
+
+.navbar ul li a:hover {border-bottom: 2px solid white;}
+
+.gambar {width: 90%; display: grid; grid-template-columns: 1fr 1fr 1fr; margin:auto;}
+
+.gambar .foto img{width: 200px;}
+
+.foto {border: 1px solid black; margin:10px; text-align: center; }
+
+.foto a{border: 1px solid #B0C4DE; padding:10px; color: white; background: #B0C4DE; text-decoration: none; border-radius: 20px; cursor: pointer;}
+
+.footer {text-align: center; margin: 20px; color: black; background: #B0C4DE; height: 150px;}
+
+.footer p{padding-top:25px;}
+
+.footer a{text-decoration: none; color: black; }
+
+.belanja{float: left; font-family: sans-serif;}

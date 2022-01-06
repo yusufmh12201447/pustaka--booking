@@ -1,0 +1,118 @@
+<html>
+	<head>
+	<title> Website Toko Baju </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	</head> 
+
+<body>
+	<div class="header"> 
+		<div class="logo">
+		<h1>Online Fashion</h1>
+			<div class="navbar">
+				<ul>
+					<li><a href="tugasweb">HOME</a></li>
+					<li><a href="">PRODUCT</a></li>
+					<li><a href="about.php">ABOUT</a></li>
+				</ul>
+			</div>	
+		</div>
+	</div>	
+
+	<div class="gambar">
+		
+		<div class="foto">
+			<img src="anak1.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="anak2.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="bajuanak2.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="anak4.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="anak5.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="anak6.jpg">
+			<h2>Baju Anak </h2>
+			<p>Harga 50 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="gamis1.jpg">
+			<h2>Baju Gamis </h2>
+			<p>Harga 150 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="gamis2.jpg">
+			<h2>Baju Gamis </h2>
+			<p>Harga 150 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="gamis3.jpg">
+			<h2>Baju Gamis </h2>
+			<p>Harga 150 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="koko11.jpg">
+			<h2>Baju Koko </h2>
+			<p>Harga 100 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="koko12.jpg">
+			<h2>Baju Koko </h2>
+			<p>Harga 100 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+
+		<div class="foto">
+			<img src="koko13.jpg">
+			<h2>Baju Koko </h2>
+			<p>Harga 100 ribu</p>
+			<a href="belisekarang.php">Beli Sekarang</a>
+		</div>
+	</div>
+
+
+	<div class="footer">
+
+		<p>Kenyamanan dan Kepuasan Anda berbelanja adalah Prioritas Kami<br><br>
+		<a href="">@copyright 2021 </a></p>
+	</div>
+
+
+</body>
+
+</html>
